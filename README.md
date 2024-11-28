@@ -5,7 +5,6 @@
 - Colin Malecha
 - Eli McGovern
 - Samuel Ortiz Fishman
-- Calvin Thompson
 
 ## Branch Guide:
 Please follow the following branch naming convention:
