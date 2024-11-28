@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863249827343",
+    "project_id": "foodtrackingapp-cdc82",
+    "storage_bucket": "foodtrackingapp-cdc82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863249827343:android:39efcd07662c729b5cc57a",
+        "android_client_info": {
+          "package_name": "com.example.food_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
