@@ -1,4 +1,4 @@
-# team-hot-dog food_tracker_app
+# Food Tracker App
 ## Team Members:
 - Aaron Dewanz
 - Anthony Kuismi
