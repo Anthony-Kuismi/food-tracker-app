@@ -1,4 +1,5 @@
 # Food Tracker App
+Cross-platform food tracking application created with Flutter and Dart to help users reach their dietery goals.
 
 ## Team Members
 - Aaron Dewanz
