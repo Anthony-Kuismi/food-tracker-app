@@ -15,6 +15,12 @@ In addition, the project uses Firestore through [Firebase](https://firebase.goog
 The project uses Flutter 78.02 and Dart 3.2.5.
 
 # Features
-- Creating accounts
+Creating accounts
+> Allows users to have privacy.
 
 <img alt="food-tracker-login" src="https://github.com/user-attachments/assets/cfa466fa-9319-4e7a-8af2-6a4bdf8050e8" width="200"></img>
+
+Dashboard
+> Shows important dietery information at a glance such as how many calories left to eat during the day or your weight chage.
+
+<img alt = "food-tracker-weight-loss" src="https://github.com/user-attachments/assets/33ce0404-a4de-4cf1-aadc-4def22e66bd4" width="200"></img>
