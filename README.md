@@ -13,3 +13,8 @@ In addition, the project uses Firestore through [Firebase](https://firebase.goog
 > Note that the project was running in test mode. This means that the Firestore database is not secure and should be changed in the future if the project would be made public.
 
 The project uses Flutter 78.02 and Dart 3.2.5.
+
+# Features
+- Creating accounts
+
+<img alt="food-tracker-login" src="https://github.com/user-attachments/assets/cfa466fa-9319-4e7a-8af2-6a4bdf8050e8" width="200"></img>
